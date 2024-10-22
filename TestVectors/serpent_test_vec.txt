@@ -1,0 +1,317 @@
+key=
+6F5795D0 A7E3A3CE F2D998ED 8ED77390 8092730A ECE6554A 60A3EBD1 4113A999
+FA49CA68 86E649C3 EF402A3C 5108D22A 99EEBC8B 8280A673 2E1905B0 0FA9026F
+3413B4B0 02913E20 EA3F3D7A 8F27BBF2 FCA3985A 238DC99C 610536D2 87D980AF
+35F660F8 5D8751BB FE9B100C 415297C6 EE42D6ED D6766CEB 41B4F7D7 E97FD458
+F6C9CCA8 EA423134 D4EC2645 BCF648C7 46D1E86C 0B566124 6B736DB9 EC2D2132
+32B84C52 AB5DA91E 7BFF737F ACEC090B 8482BB59 D7A0187A B89DD673 7ED5EA77
+D8E083A1 106F0679 F555C276 2B2A6DF9 6A3EB570 7EDA461C 074B0765 D3692B4F
+0AB5FE41 ECDE7CE5 F9D5D5B0 D7FA42E1 D2442936 EEB113FF 1D07F106 5E4F43DE
+CE636762 8365CD79 62773B2F A3FBCB18 A7DD8D94 D72C46C8 E8ACD046 31B4BFDB
+E15FA63E 056ABCE9 016D671B 81F0FF69 9DD3267B 8E142C05 3F29596E 6B152640
+9B0B05A4 32FCE59A AA5A880F 03722FB5 D6D3AC8A 227497F1 E1F9B18D E135BA06
+69E65C17 59EE3713 8D26C9BB CAB80081 D2A92687 CB6E4C54 6BB274EE 576A5C11
+82B76E53 0DC644AF 58B92C6D E6712892 49786166 1C008534 E9E89F05 53A44454
+5C7D40D9 7D1054A5 E45422E5 FD9652A6 FB9CFFB0 44B250C1 049DDF9E 307836D4
+4E25CA80 EC3B40C6 7D89514D 2E67F4D9 0C5028ED DCE119EC E1258A5C 614CF840
+A9031CC4 EFE0E087 5C02CC6E 566D1DCB 3A247410 3D862BA3 08E1E2B0 441D77A7
+7BEBC481 2F572675 84A2550D 60B526D6
+
+plaintext=00000000000000000000000000000000
+key=0*
+
+Before IP:      00000000000000000000000000000000
+After IP:       00000000000000000000000000000000
+
+ Round [0]
+Before addKey 00000000000000000000000000000000
+Round key =  6f5795d0a7e3a3cef2d998ed8ed77390
+
+After addKey 6f5795d0a7e3a3cef2d998ed8ed77390
+Encrypt - SBOX after IP f749662478ad41abef2d49bfe5749bf3
+After subBytes a9a4805e742ac9634a65629ebaedccf3
+After linear 44e299666e14114b71a546d8cc38d0b4
+
+ Round [1]
+Before addKey 44e299666e14114b71a546d8cc38d0b4
+Round key =  8092730aece6554a60a3ebd14113a999
+
+After addKey c470ea6c82f244011106ad098d2b792d
+Encrypt - SBOX after IP 0190d90e5bd8d61c23b384e8b104892c
+After subBytes 3c5f3cbf27d201b761502fdaf4246afe
+After linear e15d96af958931dfecb0c36a0d143ae1
+
+ Round [2]
+Before addKey e15d96af958931dfecb0c36a0d143ae1
+Round key =  fa49ca6886e649c3ef402a3c5108d22a
+
+After addKey 1b145cc7136f781c03f0e9565c1ce8cb
+Encrypt - SBOX after IP 9d06a7d9cfe3f104466dab22080b9877
+After subBytes 4f9331c703fb4d5e570f240ce778127e
+After linear ce64cb17bb75099d355870ca633ec637
+
+ Round [3]
+Before addKey ce64cb17bb75099d355870ca633ec637
+Round key =  99eebc8b8280a6732e1905b00fa9026f
+
+After addKey 578a779c39f5afee1b41757a6c97c458
+Encrypt - SBOX after IP 3e6df360ad752f37b62a1a9e09a7e957
+After subBytes 5f2b7950317ced3a08c9447a02281e8c
+After linear c4577cb830398a1eb3b0ef8599313a1e
+
+ Round [4]
+Before addKey c4577cb830398a1eb3b0ef8599313a1e
+Round key =  3413b4b002913e20ea3f3d7a8f27bbf2
+
+After addKey f044c80832a8b43e598fd2ff161681ec
+Encrypt - SBOX after IP cce6fe64f526124861286dc4153f48a4
+After subBytes b0ca98fea4dc19369b458a2d99efbedb
+After linear cdeaae525bdf3c86606ac76b9eafbfed
+
+ Round [5]
+Before addKey cdeaae525bdf3c86606ac76b9eafbfed
+Round key =  fca3985a238dc99c610536d287d980af
+
+After addKey 314936087852f51a016ff1b919763f42
+Encrypt - SBOX after IP 484670a466ff8b9e0fca5ce5023ba00d
+After subBytes a6e6f314ef9b03068fb601afbebdc41e
+After linear 48cc11099893354c990e275a0cb7c118
+
+ Round [6]
+Before addKey 48cc11099893354c990e275a0cb7c118
+Round key =  35f660f85d8751bbfe9b100c415297c6
+
+After addKey 7d3a71f1c51464f7679537564de556de
+Encrypt - SBOX after IP bf3f8ee30b7d0ec5c8971e1c2f519f4f
+After subBytes 08b1faa1105efc8ea0c1cba98af5668e
+After linear 089320e8520901aa7d8be5cc2d19b9bb
+
+ Round [7]
+Before addKey 089320e8520901aa7d8be5cc2d19b9bb
+Round key =  ee42d6edd6766ceb41b4f7d7e97fd458
+
+After addKey e6d1f605847f6d413c3f121bc4666de3
+Encrypt - SBOX after IP 8a8441cf1bb5ab5a1be76ee7b9544f10
+After subBytes 03b780a69c5964b95ea689fdbad1ff5e
+After linear 67d28b4c32f3d64b034b41baa1d98267
+
+ Round [8]
+Before addKey 67d28b4c32f3d64b034b41baa1d98267
+Round key =  f6c9cca8ea423134d4ec2645bcf648c7
+
+After addKey 911b47e4d8b1e77fd7a767ff1d2fcaa0
+Encrypt - SBOX after IP d7f66766af6087f760e39cdf760fac4d
+After subBytes e4fc355fa6441d445c8dea3b92294f64
+After linear 6af7f7b089016003defa089c8cfd2321
+
+ Round [9]
+Before addKey 6af7f7b089016003defa089c8cfd2321
+Round key =  46d1e86c0b5661246b736db9ec2d2132
+
+After addKey 2c261fdc82570127b589652560d00213
+Encrypt - SBOX after IP 116917ae04411597ca1a433668d41524
+After subBytes f10fe23102d68317a8f798ea3978fbde
+After linear 9f01651e7258f4c746c448197ae6c1ce
+
+ Round [10]
+Before addKey 9f01651e7258f4c746c448197ae6c1ce
+Round key =  32b84c52ab5da91e7bff737facec090b
+
+After addKey adb9294cd9055dd93d3b3b66d60ac8c5
+Encrypt - SBOX after IP af423d4a8a56f2471055d2c7ba5e7d87
+After subBytes 1f0d873e4d8d5ff7fbb5e5916f79f18d
+After linear a1b4f920418b6132257b1facf461051a
+
+ Round [11]
+Before addKey a1b4f920418b6132257b1facf461051a
+Round key =  8482bb59d7a0187ab89dd6737ed5ea77
+
+After addKey 25364279962b79489de6c9df8ab4ef6d
+Encrypt - SBOX after IP 4f95fc4dcfa2e89ec4f92d72e016c7a5
+After subBytes a51f1f313eaff04db0644dcb29e9d4de
+After linear 47d583f4bcd7556621c561c4fd0fcdda
+
+ Round [12]
+Before addKey 47d583f4bcd7556621c561c4fd0fcdda
+Round key =  d8e083a1106f0679f555c2762b2a6df9
+
+After addKey 9f350055acb8531fd490a3b2d625a023
+Encrypt - SBOX after IP 41c723ebc2c2006660b72909fc2d3f91
+After subBytes cfc7af6619b00357971500d2f5a8f3e9
+After linear e307efeda9e9b876d95fda58331d5ef1
+
+ Round [13]
+Before addKey e307efeda9e9b876d95fda58331d5ef1
+Round key =  6a3eb5707eda461c074b0765d3692b4f
+
+After addKey 89395a9dd733fe6ade14dd3de07475be
+Encrypt - SBOX after IP 92edfda56faf7e3c08bf1c23fe865663
+After subBytes d79dd7a8498326f7408c2d361fa5ab03
+After linear 5a24af0cee2eab6df5094f92360a94e6
+
+ Round [14]
+Before addKey 5a24af0cee2eab6df5094f92360a94e6
+Round key =  0ab5fe41ecde7ce5f9d5d5b0d7fa42e1
+
+After addKey 5091514d02f0d7880cdc9a22e1f0d607
+Encrypt - SBOX after IP 214039c9eb0f4ae3feaf440189814428
+After subBytes 4022651fb143e250a302619aef4ccaa7
+After linear e0d989d4cbe60d030732d5a920432949
+
+ Round [15]
+Before addKey e0d989d4cbe60d030732d5a920432949
+Round key =  d2442936eeb113ff1d07f1065e4f43de
+
+After addKey 329da0e225571efc1a3524af7e0c6a97
+Encrypt - SBOX after IP f37a6edc18d2a6a012479f2708bdcad2
+After subBytes dbd3f127737774aa45eeda942df39a31
+After linear 649d8cfd444ab6e4d6f6d9c1d14aa1f9
+
+ Round [16]
+Before addKey 649d8cfd444ab6e4d6f6d9c1d14aa1f9
+Round key =  ce6367628365cd7962773b2fa3fbcb18
+
+After addKey aafeeb9fc72f7b9db481e2ee72b16ae1
+Encrypt - SBOX after IP fcc3775b5ff2b0f3d1b9333e7adc16b2
+After subBytes 951f157c93209c6f5510f2e28951728c
+After linear b0dc4080b21133bda23d49825538431a
+
+ Round [17]
+Before addKey b0dc4080b21133bda23d49825538431a
+Round key =  a7dd8d94d72c46c8e8acd04631b4bfdb
+
+After addKey 1701cd14653d75754a9199c4648cfcc1
+Encrypt - SBOX after IP ce23070adbaedb07c026aa070ea14b53
+After subBytes c9529a5ae1ef33ffb1deaa9bbc4fef0f
+After linear 7a0c8dcb78a27c10626bfc8770394154
+
+ Round [18]
+Before addKey 7a0c8dcb78a27c10626bfc8770394154
+Round key =  e15fa63e056abce9016d671b81f0ff69
+
+After addKey 9b532bf57dc8c0f963069b9cf1c9be3d
+Encrypt - SBOX after IP 73bfed0be29cd8d5ab01a4599eeb325f
+After subBytes ec05eecc059c4a9476dac5a90aaa0fc6
+After linear 1325f2ff1d27f4be389f52cd586746a9
+
+ Round [19]
+Before addKey 1325f2ff1d27f4be389f52cd586746a9
+Round key =  9dd3267b8e142c053f29596e6b152640
+
+After addKey 8ef6d4849333d8bb07b60ba3337260e9
+Encrypt - SBOX after IP f8e2a16e3b83614459ff05f2308a15fe
+After subBytes 2dc524751a330c9e2b326fe7aeb7b7d4
+After linear 4433edd8ce5dac3f9437edfda8f296e9
+
+ Round [20]
+Before addKey 4433edd8ce5dac3f9437edfda8f296e9
+Round key =  9b0b05a432fce59aaa5a880f03722fb5
+
+After addKey df38e87cfca149a53e6d65f2ab80b95c
+Encrypt - SBOX after IP 6d7d9b4297d8b40ea4715406b3e7f7d9
+After subBytes 69138388f63179f43ff4e57a8a552cd7
+After linear d1170af7f3cebe0eea8973c93d370b7b
+
+ Round [21]
+Before addKey d1170af7f3cebe0eea8973c93d370b7b
+Round key =  d6d3ac8a227497f1e1f9b18de135ba06
+
+After addKey 07c4a67dd1ba29ff0b70c244dc02b17d
+Encrypt - SBOX after IP 2fbbbf2bd4b8215a356621a0aa0ac957
+After subBytes 2cb50444f6cb8b82f907c500fbf32339
+After linear 1c21d54b3cfa4c27271c62ffc493c71b
+
+ Round [22]
+Before addKey 1c21d54b3cfa4c27271c62ffc493c71b
+Round key =  69e65c1759ee37138d26c9bbcab80081
+
+After addKey 75c7895c65147b34aa3aab440e2bc79a
+Encrypt - SBOX after IP 852b9780da6278ef11c6c3d94371cbc3
+After subBytes 6f2fc81d34d2ae974f3c34f3ae291ebe
+After linear 713c476f686149d14568eb92eaeb060f
+
+ Round [23]
+Before addKey 713c476f686149d14568eb92eaeb060f
+Round key =  d2a92687cb6e4c546bb274ee576a5c11
+
+After addKey a39561e8a30f05852eda9f7cbd815a1e
+Encrypt - SBOX after IP 355cde82491cc6c7d405636bb0f8cc7b
+After subBytes 5ea03b1fb3cb850b3040e0078f51bb71
+After linear d9f840696d5eddcc888266c424f2f41b
+
+ Round [24]
+Before addKey d9f840696d5eddcc888266c424f2f41b
+Round key =  82b76e530dc644af58b92c6de6712892
+
+After addKey 5b4f2e3a60989963d03b4aa9c283dc89
+Encrypt - SBOX after IP c271d03eac1af952a14671ddcf251091
+After subBytes a61845e7b42843e4f290dfc06b6c2d71
+After linear c45a3bcb5024924056a01d5a06bab75d
+
+ Round [25]
+Before addKey c45a3bcb5024924056a01d5a06bab75d
+Round key =  497861661c008534e9e89f0553a44454
+
+After addKey 8d225aad4c241774bf48825f551ef309
+Encrypt - SBOX after IP 1636d74dc98b12fa0438ca905a4c7f4d
+After subBytes 23f3607b58afc52455ad8bf96bc7598f
+After linear f08871863399fd21664260056812dad3
+
+ Round [26]
+Before addKey f08871863399fd21664260056812dad3
+Round key =  5c7d40d97d1054a5e45422e5fd9652a6
+
+After addKey acf5315f4e89a984821642e095848875
+Encrypt - SBOX after IP 6dc91b19a431a043b1152d43d2183b68
+After subBytes d90f6351e26edaca75f8980e9b15adc0
+After linear f604b76d43804331562befc1c05a5dab
+
+ Round [27]
+Before addKey f604b76d43804331562befc1c05a5dab
+Round key =  fb9cffb044b250c1049ddf9e307836d4
+
+After addKey 0d9848dd073213f052b6305ff0226b7f
+Encrypt - SBOX after IP 3fafddcd09c690aa50e714e08c8c1363
+After subBytes a8ba480d5a18337faa2e105dfd8c20d2
+After linear aadffdf684d2090a07d03c51788543f2
+
+ Round [28]
+Before addKey aadffdf684d2090a07d03c51788543f2
+Round key =  4e25ca80ec3b40c67d89514d2e67f4d9
+
+After addKey e4fa377668e949cc7a596d1c56e2b72b
+Encrypt - SBOX after IP 2395e79886d96d9fbfb570961f7c69c0
+After subBytes df475b6aa8a9ec4de44a372edae16d80
+After linear a853b3b8c32a1da4299696aced05dbd1
+
+ Round [29]
+Before addKey a853b3b8c32a1da4299696aced05dbd1
+Round key =  0c5028eddce119ece1258a5c614cf840
+
+After addKey a4039b551fcb0448c8b31cf08c492391
+Encrypt - SBOX after IP c74d2109108556996a44a07fd412eb22
+After subBytes 2885c7879b4c5b1be87ec0f604ce5cc2
+After linear fb8d9504c09573785dd5bd905fb9fac0
+
+ Round [30]
+Before addKey fb8d9504c09573785dd5bd905fb9fac0
+Round key =  a9031cc4efe0e0875c02cc6e566d1dcb
+
+After addKey 528e89c02f7593ff01d771fe09d4e70b
+Encrypt - SBOX after IP 7766e6eabcc618afde2e1f560121a23e
+After subBytes 8a80e2c1d1d99cfea623f4342570e4ca
+After linear 407bd796f93c181777be1d175767f7fb
+
+ Round [31]
+Before addKey 407bd796f93c181777be1d175767f7fb
+Round key =  3a2474103d862ba308e1e2b0441d77a7
+
+After addKey 7a5fa386c4ba33b47f5fffa7137a805c
+Encrypt - SBOX after IP 786a8f54d47644772daff5f5275d56dc
+After subBytes d3c0a3c8d6daffed80ba4c5de9a56f93
+
+
+After last addKey a82b6749f98dd9980418195089104945
+Before FP:      a82b6749f98dd9980418195089104945
+After FP:       49672ba898d98df95019180445491089
+ciphertext=49672ba898d98df95019180445491089

@@ -1,0 +1,286 @@
+
+
+subkeys=
+DBACECC3 A6AF294C 626F0016 50294189 C8DD62AA C68CF954 66124123 D1857613
+14FD50E1 2811EB0C 3936AB35 D3453E05 0A6086DC 976810FB E926B8F1 48C2A942
+4D065C25 427CE711 80939B0D 76345E76 F3B504D1 E8E4066D 14B4EDC7 AC0F7472
+6BAD321F 235F6CCE 29B17CEE 6992DE2E 574D3BEE 1FA350B9 F91F2B5D B157F93F
+9C97503F 269897A8 A86D3A94 F246BF5B 852AA1FB AD502E86 F0FDFF41 3F93E53F
+82B8301A 6F3901CE 296BE9A3 B385956F 4A437478 DB8C5CBA B23112FA B67FBE8D
+608278D2 5C458A12 A7C12FB7 F8156E47 C294E277 BF4941CB 574CD383 008D9CC2
+1DC8A512 51C63941 CB845ECD 51787909 A536F4DE 10832AF3 2798A6F0 65B24911
+3A1BAEB3 ABCB8477 B967AE1C 9C32B949 808DA64F 68B418F6 191A63D3 D50C3928
+86885158 7B8265B0 D2E56DA6 511EA790 D2A9D9B8 3D891AED 308747F3 876107B2
+F11A683E 34149EFC B9848F37 4DF82BE8 544405E1 BD0142AA BB63333D C1E671E1
+E19D3478 FB50A5EC B664DB2D 58942131 28235919 25870EFC 1A8080ED FC3E9207
+94861E7C 019184D5 06BF3A16 D08D92E6 23458B50 6E2731D0 35D845AE DA755C6A
+FC5F7E10 61112AEB A8605255 834D2B0E 80C344FF BD327788 49D0D649 1D79168F
+1865A71D EE043783 46A798E4 DA89E2EB 44320261 5A43F9EF AE4C22DB 39EE48C7
+6DEDC88A 5D189F48 48C2CCD0 0C2DF38D EE74FED4 4397F0B6 CF202CA0 FE0903B7
+3F9EE37D 9EA55DAA 6AB39117 73F9C3E3
+
+plaintext=00112233445566778899aabbccddeeff
+key=000102030405060708090A0B0C0D0E0F101112131415161718191A1B1C1D1E1F
+
+Before IP:      00112233445566778899aabbccddeeff
+After IP:       3322110077665544bbaa9988ffeeddcc
+
+ Round [0]
+Before addKey 3322110077665544bbaa9988ffeeddcc
+Round key =  dbacecc3a6af294c626f001650294189
+
+After addKey e88efdc3d1c97c08d9c5999eafc79c45
+After subBytes 717b626d463007b6b68219cfe7c31851
+After linear f8997fd13cdacfc939418920df53aa18
+
+ Round [1]
+Before addKey f8997fd13cdacfc939418920df53aa18
+Round key =  c8dd62aac68cf95466124123d1857613
+
+After addKey 30441d7bfa56369d5f53c8030ed6dc0b
+After subBytes 6bbb0812be3ae2946468c973112d1d6a
+After linear ac242374f8fdc8f1e1984f253c9ea49d
+
+ Round [2]
+Before addKey ac242374f8fdc8f1e1984f253c9ea49d
+Round key =  14fd50e12811eb0c3936ab35d3453e05
+
+After addKey b8d97395d0ec23fdd8aee410efdb9a98
+After subBytes 7f113d6598ac247857406ae81f24690f
+After linear 917713c10a07b9b063a63fc82120aecc
+
+ Round [3]
+Before addKey 917713c10a07b9b063a63fc82120aecc
+Round key =  0a6086dc976810fbe926b8f148c2a942
+
+After addKey 9b17951d9d6fa94b8a80873969e2078e
+After subBytes e618bcd58cf8bf4b691215a87e9d3bf8
+After linear 88f6123ba7e55d97c1b5818d6c3851c5
+
+ Round [4]
+Before addKey 88f6123ba7e55d97c1b5818d6c3851c5
+Round key =  4d065c25427ce71180939b0d76345e76
+
+After addKey c5f04e1ee599ba8641261a801a0c0fb3
+After subBytes 84d45edcdfd051af414a4e982047fa0a
+After linear 7dbee9cabcb36beefe0dd8a364850c3a
+
+ Round [5]
+Before addKey 7dbee9cabcb36beefe0dd8a364850c3a
+Round key =  f3b504d1e8e4066d14b4edc7ac0f7472
+
+After addKey 8e0bed1b54576d83eab93564c88a7848
+After subBytes 4590b25bdf4c028be9a9977407935f43
+After linear 918e3e6b0897a33dd6d133674250ba7c
+
+ Round [6]
+Before addKey 918e3e6b0897a33dd6d133674250ba7c
+Round key =  6bad321f235f6cce29b17cee6992de2e
+
+After addKey fa230c742bc8cff3ff604f892bc26452
+After subBytes 0096187201557bd5d03cb3f1054ae858
+After linear 591579c5877d489270147e9d6ebba34e
+
+ Round [7]
+Before addKey 591579c5877d489270147e9d6ebba34e
+Round key =  574d3bee1fa350b9f91f2b5db157f93f
+
+After addKey 0e58422b98de182b890b55c0dfec5a71
+After subBytes e120f054486b45b1dead1f9011c50de1
+After linear 921eb12446124a27232031737c88238a
+
+ Round [8]
+Before addKey 921eb12446124a27232031737c88238a
+Round key =  9c97503f269897a8a86d3a94f246bf5b
+
+After addKey 0e89e11b608add8f8b4d0be78ece9cd1
+After subBytes f47449def1f58362e44f145565082bb3
+After linear 6d12c1edb56dfe86ea30ee55573eb607
+
+ Round [9]
+Before addKey 6d12c1edb56dfe86ea30ee55573eb607
+Round key =  852aa1fbad502e86f0fdff413f93e53f
+
+After addKey e8386016183dd0001acd111468ad5338
+After subBytes 77571ef965979dc19d9a2dd3e7626cd3
+After linear 7ac341d2d533bb6e85b40d95a53a8f8a
+
+ Round [10]
+Before addKey 7ac341d2d533bb6e85b40d95a53a8f8a
+Round key =  82b8301a6f3901ce296be9a3b385956f
+
+After addKey f87b71c8ba0abaa0acdfe43616bf1ae5
+After subBytes a8312473ea1baf1afa407ba9ab51ea01
+After linear adb891d1392c0ea6587532cc90cfbf2e
+
+ Round [11]
+Before addKey adb891d1392c0ea6587532cc90cfbf2e
+Round key =  4a437478db8c5cbab23112fab67fbe8d
+
+After addKey e7fbe5a9e2a0521cea44203626b001a3
+After subBytes c55bb7a1e30b96362baf84342b4ff60a
+After linear df4be64591071e793045fe99c90979e0
+
+ Round [12]
+Before addKey df4be64591071e793045fe99c90979e0
+Round key =  608278d25c458a12a7c12fb7f8156e47
+
+After addKey bfc99e97cd42946b9784d12e311c17a7
+After subBytes 296d3bba9c518c3db509dab651075d5f
+After linear 0ef7a0ff26d0394b552e60ac79d0c161
+
+ Round [13]
+Before addKey 0ef7a0ff26d0394b552e60ac79d0c161
+Round key =  c294e277bf4941cb574cd383008d9cc2
+
+After addKey cc634288999978800262b32f795d5da3
+After subBytes c4003173d1fa1a5817589977993b6bfb
+After linear 47a17933da2152c08c7b17e246322189
+
+ Round [14]
+Before addKey 47a17933da2152c08c7b17e246322189
+Round key =  1dc8a51251c63941cb845ecd51787909
+
+After addKey 5a69dc218be76b8147ff492f174a5880
+After subBytes 3c2910d121af8551ec8423709533320f
+After linear 9730aa61cf2972a63dc444a6e18ad070
+
+ Round [15]
+Before addKey 9730aa61cf2972a63dc444a6e18ad070
+Round key =  a536f4de10832af32798a6f065b24911
+
+After addKey 32065ebfdfaa58551a5ce25684389961
+After subBytes 7399c5dc5bc07915e5e825e8f7f4fe9f
+After linear 83e3c7e29875b0429268520bb4d1200e
+
+ Round [16]
+Before addKey 83e3c7e29875b0429268520bb4d1200e
+Round key =  3a1baeb3abcb8477b967ae1c9c32b949
+
+After addKey b9f8695133be34352b0ffc1728e39947
+After subBytes 575fb7fe45a9e2ba2245c563a14a3175
+After linear 252acf1f42f0069166c9c2fe4d269a02
+
+ Round [17]
+Before addKey 252acf1f42f0069166c9c2fe4d269a02
+Round key =  808da64f68b418f6191a63d3d50c3928
+
+After addKey a5a769502a441e677fd3a12d982aa32a
+After subBytes ca7e29e5b8249eea1246ebdfe0326392
+After linear 63385b3dde5ef2bb95534d62f07b892d
+
+ Round [18]
+Before addKey 63385b3dde5ef2bb95534d62f07b892d
+Round key =  868851587b8265b0d2e56da6511ea790
+
+After addKey e5b00a65a5dc970b47b620c4a1652ebd
+After subBytes 06bf993607fa950ee4dd975b5cf1445c
+After linear 57606578a461de0d6ba0ffe895fc1df1
+
+ Round [19]
+Before addKey 57606578a461de0d6ba0ffe895fc1df1
+Round key =  d2a9d9b83d891aed308747f3876107b2
+
+After addKey 85c9bcc099e8c4e05b27b81b129d1a43
+After subBytes 1511fa200f25d8235cbb1a58c65666bb
+After linear 6cd4d928ab7210876ba2e009d750b4ec
+
+ Round [20]
+Before addKey 6cd4d928ab7210876ba2e009d750b4ec
+Round key =  f11a683e34149efcb9848f374df82be8
+
+After addKey 9dceb1169f668e7bd2266f3e9aa89f04
+After subBytes b7f91ea80f668f3ed2ae5f16d800c16d
+After linear a218b7377382c2efa7ee5527ed4711a9
+
+ Round [21]
+Before addKey a218b7377382c2efa7ee5527ed4711a9
+Round key =  544405e1bd0142aabb63333dc1e671e1
+
+After addKey f65cb2d6ce8380451c8d661a2ca16048
+After subBytes efd1d9acfb8fab3709d17da8d30ccb7e
+After linear 565bb8661c63b71bf89aad2515e4f722
+
+ Round [22]
+Before addKey 565bb8661c63b71bf89aad2515e4f722
+Round key =  e19d3478fb50a5ecb664db2d58942131
+
+After addKey b7c68c1ee73312f74efe76084d70d613
+After subBytes ab42c51753721f12a98541fe4b3bf2f2
+After linear 8f83b2fa8ff5cb1ec52d7928032b23e1
+
+ Round [23]
+Before addKey 8f83b2fa8ff5cb1ec52d7928032b23e1
+Round key =  2823591925870efc1a8080edfc3e9207
+
+After addKey a7a0ebe3aa72c5e2dfadf9c5ff15b1e6
+After subBytes 5d67761ca76ae5e28a5a87c070ff5e27
+After linear 74f1525836faa0946b8d06b51b9ea1aa
+
+ Round [24]
+Before addKey 74f1525836faa0946b8d06b51b9ea1aa
+Round key =  94861e7c019184d506bf3a16d08d92e6
+
+After addKey e0774c24376b24416d323ca3cb13334c
+After subBytes bde8b41538a99fba9e0a1b6db12e678e
+After linear feba8203bcf7e6d7658f88cdb580857a
+
+ Round [25]
+Before addKey feba8203bcf7e6d7658f88cdb580857a
+Round key =  23458b506e2731d035d845aeda755c6a
+
+After addKey ddff0953d2d0d7075057cd636ff5d910
+After subBytes ad25ecb89f20f29fc25d3d881fad38bb
+After linear 62fdb5c460bc16faedacb79ffe3ceef0
+
+ Round [26]
+Before addKey 62fdb5c460bc16faedacb79ffe3ceef0
+Round key =  fc5f7e1061112aeba8605255834d2b0e
+
+After addKey 9ea2cbd401ad3c1145cce5ca7d71c5fe
+After subBytes 3d90dde5868ff3c1a3b31631249de9e0
+After linear 5b3257ad0157cbfd7ff193ec7032fef2
+
+ Round [27]
+Before addKey 5b3257ad0157cbfd7ff193ec7032fef2
+Round key =  80c344ffbd32778849d0d6491d79168f
+
+After addKey dbf11352bc65bc75362145a56d4be87d
+After subBytes 77be032f10b5ee022cdb06ff829f538a
+After linear 0f8ca3a36c106e19a2b6b9b7b409e5f3
+
+ Round [28]
+Before addKey 0f8ca3a36c106e19a2b6b9b7b409e5f3
+Round key =  1865a71dee04378346a798e4da89e2eb
+
+After addKey 17e904be8214599ae41121536e800718
+After subBytes f1fa85b49f7803ae15e82577f77c787d
+After linear af1d906ac11f6c5215b90987c4d11eee
+
+ Round [29]
+Before addKey af1d906ac11f6c5215b90987c4d11eee
+Round key =  443202615a43f9efae4c22db39ee48c7
+
+After addKey eb2f920b9b5c95bdbbf52b5cfd3f5629
+After subBytes d956811e703386a032b12e6202489535
+After linear 91c782fa6b325d368698ce146f9fba0b
+
+ Round [30]
+Before addKey 91c782fa6b325d368698ce146f9fba0b
+Round key =  6dedc88a5d189f4848c2ccd00c2df38d
+
+After addKey fc2a4a70362ac27ece5a02c463b24986
+After subBytes 743d7ef367ad7745b9b5f5b927f8cbcc
+After linear cdc34a7e0bb9681e81d0c4af52091cca
+
+ Round [31]
+Before addKey cdc34a7e0bb9681e81d0c4af52091cca
+Round key =  ee74fed44397f0b6cf202ca0fe0903b7
+
+After addKey 23b7b4aa482e98a84ef0e80fac001f7d
+After subBytes 9d298b55c068d378a9494f5807f9f027
+
+
+After last addKey a2b768285ecd8ed2c3fade4f740033c4
+Before FP:      a2b768285ecd8ed2c3fade4f740033c4
+After FP:       2868b7a2d28ecd5e4fdefac3c4330074
